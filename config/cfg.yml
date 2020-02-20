@@ -1,0 +1,5 @@
+
+database: sqlite
+browser: chrome
+firefox_path: /Users/danielwhitfield/Desktop/Workspace/python_selenium_base/resources/geckodriver_26
+chrome_path: /Users/danielwhitfield/Desktop/Workspace/python_selenium_base/resources/chromedriver_79

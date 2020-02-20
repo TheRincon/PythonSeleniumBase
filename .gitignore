@@ -2,4 +2,6 @@
 .bundle/
 *.sqlite3
 .env*
-
+*.pyc
+*.pyo
+*.log
